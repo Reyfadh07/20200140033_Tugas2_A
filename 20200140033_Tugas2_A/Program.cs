@@ -83,6 +83,8 @@ namespace _20200140033_Tugas2_A
         }
         static void Main(string[] args)
         {
+            new Program().CreateTable();
+            new Program().InsertTable();
         }
     }
 }
